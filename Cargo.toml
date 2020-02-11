@@ -1,0 +1,11 @@
+[package]
+name = "rust-git"
+version = "0.1.0"
+authors = ["Jos Dirksen <jos.dirksen@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+git2 = "0.10"
+chrono = "0.4.10"
+libc = "0.2.66"
+colored = "1.9.2"
